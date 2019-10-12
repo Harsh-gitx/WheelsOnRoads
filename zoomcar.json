@@ -1,0 +1,552 @@
+{
+"status": 1,
+"locations_map": {
+"12": {
+"name": "Bomanahalli",
+"address": "Hotel IBIS, 26/1 Hosur Road | Near The Oxford College Bomanahalli",
+"lat": "12.900909",
+"lng": "77.632304",
+"distance": "10.5 to 17.5 km",
+"distance_to_sort": 13.8,
+"radius": 3.25
+},
+"116": {
+"name": "Vidyaranyapura",
+"address": "NO:185/2b, Kodigehalli, thindlu main road, Verupakshapura, vidyaranyapura post",
+"lat": "13.06516",
+"lng": "77.570824",
+"distance": "3.0 to 12.5 km",
+"distance_to_sort": 7.7,
+"radius": 4.400000095367432
+},
+"151": {
+"name": "Rajajinagar",
+"address": "# 1819,3rd block Dr.Rajkumar road Next to Suguna Hospital 3rd block, Rajajinagar",
+"lat": "12.987891",
+"lng": "77.560071",
+"distance": "within 5.5 km",
+"distance_to_sort": 1.4,
+"radius": 3.799999952316284
+},
+"154": {
+"name": "Magrath Road, Ashok Nagar",
+"address": "Garuda Mall 15, Magrath Rd, Ashok Nagar,",
+"lat": "12.97011",
+"lng": "77.609817",
+"distance": "4.0 to 9.5 km",
+"distance_to_sort": 6.9,
+"radius": 2.4800000190734863
+},
+"326": {
+"name": "Domlur - HAL Road",
+"address": "Carlton Towers, Kodihalli",
+"lat": "12.961239",
+"lng": "77.644142",
+"distance": "7.0 to 14.5 km",
+"distance_to_sort": 10.7,
+"radius": 3.3299999237060547
+},
+"1483": {
+"name": "Arekere MICO Layout, 2nd stage, Lakshmi Layout, Arekere, Bannerghatta Main Road, ",
+"address": "Arekere MICO Layout, 2nd stage, Lakshmi Layout, Arekere, Bannerghatta Main Road, ",
+"lat": "12.887186",
+"lng": "77.595901",
+"distance": "10.5 to 16.0 km",
+"distance_to_sort": 13.2,
+"radius": 2.359999895095825
+}
+},
+"result": [
+{
+"availability": 1,
+"cars": [
+{
+"id": 69,
+"boot_space": 3,
+"seater": 5,
+"minimum_age": 18,
+"name": "Swift AT",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/964a9433a21c9b95c25217ecdbe653abb658c9f1.png?-1521810661",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/c16324d1091979c9b79744201858357390dac23b.png?-1521810654",
+"brand": "Maruti",
+"pricing": [
+{
+"id": 10,
+"amount": 1181,
+"kms": 45,
+"excess_kms": 14,
+"flexi": "FLEX_10",
+"z_points": 10
+},
+{
+"id": 15,
+"amount": 2110,
+"kms": 90,
+"excess_kms": 14,
+"flexi": "FLEX_15",
+"z_points": 18
+}
+],
+"manual": false,
+"locations": [
+{
+"id": "154"
+},
+{
+"id": "12"
+}
+],
+"ranking": 49
+},
+{
+"id": 56,
+"boot_space": 5,
+"seater": 5,
+"minimum_age": 18,
+"name": "Creta",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/db8a37dea93bea80173b683d191e228e8afed50b.jpg?-1492089335",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/a6efd0cf5892124cb725fc815fb72f5b0d6e091b.jpg?-1492089332",
+"brand": "Hyundai",
+"pricing": [
+{
+"id": 10,
+"amount": 1442,
+"kms": 45,
+"excess_kms": 18,
+"flexi": "FLEX_10",
+"z_points": 15
+},
+{
+"id": 15,
+"amount": 2576,
+"kms": 90,
+"excess_kms": 18,
+"flexi": "FLEX_15",
+"z_points": 27
+}
+],
+"manual": true,
+"locations": [
+{
+"id": "1483"
+}
+],
+"ranking": 39
+}
+]
+},
+{
+"availability": 0,
+"header": "No more cars available for your selected time and location",
+"cars": [
+{
+"id": 19,
+"boot_space": 2,
+"seater": 5,
+"minimum_age": 18,
+"name": "Swift",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/1f3585c2e226fb30f85664a669b8c2ee1fdc1703.png?-1503039545",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/ab1fd92c521382b3119c50b1ec6c8a19553bed94.png?-1438160149",
+"brand": "Maruti"
+},
+{
+"id": 32,
+"boot_space": 3,
+"seater": 5,
+"minimum_age": 18,
+"name": "KUV 100",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/b5cffd4b8ab18106411293b3666486a5bd691755.png?-1503044921",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/e5cc12b0d699b94fe950c9a554c9da03528e755f.png?-1471957713",
+"brand": "Mahindra"
+},
+{
+"id": 7,
+"boot_space": 4,
+"seater": 5,
+"minimum_age": 18,
+"name": "Ecosport",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/16f10a6059e90dc8193fa5a8ace6263fc39e7689.png?-1503048248",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/896d7b2d406698046aa2d185b1267d72ab2518ec.png?-1523269106",
+"brand": "Ford"
+},
+{
+"id": 2,
+"boot_space": 5,
+"seater": 7,
+"minimum_age": 18,
+"name": "Scorpio",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/8eafd5846d115a5744a65b75dd5b2e2000fc4c1b.png?-1503039855",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/5e5e627444a16752a7d83d6c399bd58e0442be5a.png?-1523269031",
+"brand": "Mahindra"
+},
+{
+"id": 10,
+"boot_space": 5,
+"seater": 7,
+"minimum_age": 18,
+"name": "XUV 500",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/3b9025e1fae80f79c9cd438808c1ba0bb5673efb.png?-1503038534",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/48f1a2e19a036cb8a7d5602291bccfe58caf078e.png?-1523276382",
+"brand": "Mahindra"
+},
+{
+"id": 11,
+"boot_space": 4,
+"seater": 5,
+"minimum_age": 24,
+"name": "A Class",
+"pricing_index": 0,
+"filter": 4,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/4d02fdcf78b5464969b10cee1a2a6bf2001b5b6e.jpg?-1425200774",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/07fc73c1576cbd95ccd2f1c8c2c95d99fdb0dff1.jpg?-1420703311",
+"brand": "Mercedes"
+},
+{
+"id": 21,
+"boot_space": 2,
+"seater": 5,
+"minimum_age": 18,
+"name": "Ritz",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/f396d2699d45643ae13d651bcc698de9d1c188ae.png?-1503040023",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/a48af96c53b7ed72534fe638b8ca619ffc1b5922.png?-1455188861",
+"brand": "Maruti"
+},
+{
+"id": 37,
+"boot_space": 4,
+"seater": 5,
+"minimum_age": 18,
+"name": "Aspire",
+"pricing_index": 0,
+"filter": 3,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/a18b2167c291a5cb7ae51f70d8bf481073b54e4f.png?-1503048600",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/3e6db1032274739a3ed29dda46923807244be5ab.png?-1474480012",
+"brand": "Ford"
+},
+{
+"id": 38,
+"boot_space": 3,
+"seater": 5,
+"minimum_age": 18,
+"name": "i20",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/669ef153e37fe722e57d75af972c5740662b79e5.png?-1503045133",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/4e4a90d58754fed3c8ca8b269ebb8f2cbe95b60d.png?-1476255276",
+"brand": "Hyundai"
+},
+{
+"id": 39,
+"boot_space": 4,
+"seater": 5,
+"minimum_age": 18,
+"name": "Jazz",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/e46fd7bc8ac9905401ca45b16e1c582849011ef6.png?-1503045007",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/77c1c95ba60e33cea69dd421e373b1efcb578396.png?-1476278805",
+"brand": "Honda"
+},
+{
+"id": 51,
+"boot_space": 0,
+"seater": 5,
+"minimum_age": 18,
+"name": "Ciaz (MT)",
+"pricing_index": 0,
+"filter": 3,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/d290ab2ab4721ae87df602e34ddf2219e57b0c4d.png?-1523276462",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/40a43a76ed62825974ecdaf3838faf4d4a1aa96e.png?-1487913700",
+"brand": "Maruti"
+},
+{
+"id": 18,
+"boot_space": 5,
+"seater": 7,
+"minimum_age": 24,
+"name": "Fortuner",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/b1a5f305b605d5450be7344c1dac286231315045.png?-1503048129",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/dc5f42ce8842837fe1a6fe9ffa2b10217b961ef1.png?-1438267593",
+"brand": "Toyota"
+},
+{
+"id": 60,
+"boot_space": 3,
+"seater": 5,
+"minimum_age": 18,
+"name": "Tiago",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/8e78d99a6ddd6b6e6c858dad6f223fe74875e370.jpg?-1506410553",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/1637a2091d8f92e5aa7f8516e24182fa92b58027.jpg?-1506410548",
+"brand": "Tata"
+},
+{
+"id": 65,
+"boot_space": 5,
+"seater": 7,
+"minimum_age": 18,
+"name": "Hexa",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/5bc231721cd4246e29d94925237cae8e0a7bb867.png?-1509779763",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/4e6e54e5a978a7625a624b3d563a81799c8ad2a3.png?-1509779758",
+"brand": "Tata"
+},
+{
+"id": 74,
+"boot_space": 0,
+"seater": 5,
+"minimum_age": 18,
+"name": "Sunny",
+"pricing_index": 0,
+"filter": 3,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/d45547d9198d7f4f4910067327c2e98bf7ea1792.png?-1528181351",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/0624d9033955c4cdc5d45a823b5eaf1cdf63601a.png?-1528181346",
+"brand": "Nissan"
+},
+{
+"id": 67,
+"boot_space": 6,
+"seater": 5,
+"minimum_age": 18,
+"name": "Verna",
+"pricing_index": 0,
+"filter": 3,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/a94c577b1d0491953ddca48236c5fed608e45c7e.jpg?-1514551086",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/6f6044d2e43a6caa3b911e21863d77428048770b.jpg?-1514551080",
+"brand": "Hyundai"
+},
+{
+"id": 68,
+"boot_space": 4,
+"seater": 5,
+"minimum_age": 18,
+"name": "Nexon",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/aeb66d372e6095a8d682bb9ae0174ef05fbb47a7.png?-1522046711",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/ee35ac642559a0d1b0e55e07bdade1f99dbb7211.png?-1522046704",
+"brand": "Tata"
+},
+{
+"id": 66,
+"boot_space": 4,
+"seater": 5,
+"minimum_age": 18,
+"name": "Brezza",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/442cc622b1d00816cedc3f8ef316ee49aab2ebcd.png?-1512544852",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/614834ba5fe0e7cf4bf5ee7c7f8ef24dd404d4fd.png?-1512544846",
+"brand": "Maruti"
+},
+{
+"id": 63,
+"boot_space": 0,
+"seater": 7,
+"minimum_age": 18,
+"name": "TUV 300",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/6ddb5e6b50fb6c201aa3738c7c9f53dd62c3179b.jpg?-1507283240",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/90fa3be6e62f6e252f717d4ab4610514834cc311.jpg?-1507283234",
+"brand": "Mahindra"
+},
+{
+"id": 73,
+"boot_space": 0,
+"seater": 5,
+"minimum_age": 18,
+"name": "Xcent",
+"pricing_index": 0,
+"filter": 3,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/b2499d8193cae358867a48352cf56da0dda1a919.png?-1526292338",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/e0f821f2391869ead980924a961c875354228500.png?-1526292332",
+"brand": "Hyundai"
+},
+{
+"id": 79,
+"boot_space": 0,
+"seater": 5,
+"minimum_age": 18,
+"name": "Nexon AT",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/e4ab3f47cf914edce719f83bbc77cddba0e32c30.png?-1534155423",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/adc64da831b37cf4e182825c34837823c01aa195.png?-1534155422",
+"brand": "Tata"
+},
+{
+"id": 28,
+"boot_space": 4,
+"seater": 5,
+"minimum_age": 18,
+"name": "Baleno",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/e8e396f539cfb2c72002bf41ca63d48bbd78758b.png?-1503048524",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/23d08bbe57f25f76fe52ac74c1e9720f84659515.png?-1464332773",
+"brand": "Maruti"
+},
+{
+"id": 75,
+"boot_space": 0,
+"seater": 5,
+"minimum_age": 18,
+"name": "Freestyle",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/dc50c77aa094cf6a8795d35a0bf75db465d44152.png?-1530600432",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/8bf482b3d97ab88ab7f67f8e72fe9bab0cbb5cfa.png?-1530600426",
+"brand": "Ford"
+},
+{
+"id": 41,
+"boot_space": 5,
+"seater": 5,
+"minimum_age": 24,
+"name": "Q3",
+"pricing_index": 0,
+"filter": 4,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/d598504e728b31187563d159d775755270eeddbd.png?-1503043210",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/5e22d5914512b646597f3ba5c8e04b8b5bd21f31.png?-1478512961",
+"brand": "Audi"
+},
+{
+"id": 90,
+"boot_space": 0,
+"seater": 5,
+"minimum_age": 18,
+"name": "Creta AT",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/78219d5d25fa9c2d29156d112ee4b5bb22f0dd95.jpg?-1539162987",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/7b4a1fe00393381bcdd59c048019301aafd3643b.jpg?-1539162987",
+"brand": "Hyundai"
+},
+{
+"id": 91,
+"boot_space": 0,
+"seater": 7,
+"minimum_age": 18,
+"name": "XUV 500 AT",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/6ed2f3ab26b0ae4672e5e2ff15308e10cf88de3d.png?-1539164378",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/c3b130adbc64cad7137d27a38b1228133cc962f8.png?-1539164378",
+"brand": "Mahindra"
+},
+{
+"id": 112,
+"boot_space": 0,
+"seater": 5,
+"minimum_age": 18,
+"name": "Nissan Kicks",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/fb488e54794739cb56c64628c21d01304510cafb.jpg?-1562232970",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/10b01a83caebf9bd83160b295aa5e1d972b96758.jpg?-1562232969",
+"brand": "Nissan"
+},
+{
+"id": 43,
+"boot_space": 2,
+"seater": 5,
+"minimum_age": 18,
+"name": "Grand i10",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/eb3fa17581de0da3528976917800fb6dfd202328.png?-1503045371",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/d4ef00988b5050002712aaedf7e5a3e5c232f165.png?-1486462333",
+"brand": "Hyundai"
+},
+{
+"id": 89,
+"boot_space": 0,
+"seater": 7,
+"minimum_age": 18,
+"name": "Marazzo",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/487fdedbd2cbfdc4ae9652188cd4b4cef14cd6d8.png?-1536934443",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/36552aa0bb0c3048fd0dc50798e9e89d6cf7d7a6.png?-1536934442",
+"brand": "Mahindra"
+},
+{
+"id": 12,
+"boot_space": 5,
+"seater": 5,
+"minimum_age": 18,
+"name": "Amaze",
+"pricing_index": 0,
+"filter": 3,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/fd354746e69422018661470f50a0796dedc7d1da.png?-1503048704",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/4588b0c3a9f1bbc5b0432be8cb9274ad74082910.jpg?-1420703169",
+"brand": "Honda"
+},
+{
+"id": 1,
+"boot_space": 3,
+"seater": 5,
+"minimum_age": 18,
+"name": "Figo",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/2c8a01014bf2cc30ab76676ac222cc56b35fa80a.png?-1505733199",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/4aa781acc609e85eb0af6c7ee4c301d566ce2290.png?-1505738006",
+"brand": "Ford"
+}
+]
+}
+],
+"live_filters": [
+1,
+2
+],
+"alert": {
+"title": "Age confirmation alert",
+"msg": "If you are booking BMW 3 Series, Mercedes A Class, Mercedes GLA, Mercedes CLA, Audi Q3, Toyota Fortuner, Ford Endeavour you should be 24 years or older. If you are below 24 years of age please choose another car from our fleet, or else your booking will be cancelled later.",
+"filters": [
+1,
+2,
+3,
+5
+],
+"filter_text": "Hatchback, SUV, Sedan",
+"link_text": "Read our terms and conditions here.",
+"bt_text2": "Continue",
+"bt_text1": "Choose Another Car",
+"link_url": "https://www.zoomcar.com/bangalore/policy",
+"label": "Terms & Conditions",
+"image": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/thumb/1f7e80dc62f4d8d60f9e6ffcc904b70a01e96595.png?1469007688"
+},
+"allocation_info": {
+"text": "Exact location will be shared 4 hours prior to your trip start time",
+"text_jit": "Please proceed. Exact car location will be provided post checkout (on payment options screen)",
+"allocation_time": 14400000
+},
+"pricing_banner": {
+"dpm": 1,
+"message": "Book early, book cheaper!"
+},
+"msg": "success"
+}
