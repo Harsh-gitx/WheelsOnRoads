@@ -1,14 +1,23 @@
 {
 "status": 1,
 "locations_map": {
-"12": {
-"name": "Bomanahalli",
-"address": "Hotel IBIS, 26/1 Hosur Road | Near The Oxford College Bomanahalli",
-"lat": "12.900909",
-"lng": "77.632304",
-"distance": "10.5 to 17.5 km",
-"distance_to_sort": 13.8,
-"radius": 3.25
+"17": {
+"name": "Sadahalli, Kempegowda International Airport Road",
+"address": "No 16,  Next to McDonald, Down Town Park II, Meenakunte Village,Sadahalli, Kempegowda International airport Road",
+"lat": "13.189009",
+"lng": "77.644021",
+"distance": "19.5 to 27.5 km",
+"distance_to_sort": 23.4,
+"radius": 3.869999885559082
+},
+"67": {
+"name": "Palace Grounds, Ramana Maharshi Road",
+"address": "Gate No.8, Badri Nivas, Palace Grounds, Ramana Maharshi Road",
+"lat": "13.005655",
+"lng": "77.58479",
+"distance": "within 7.5 km",
+"distance_to_sort": 3.5,
+"radius": 3.6600000858306885
 },
 "116": {
 "name": "Vidyaranyapura",
@@ -28,38 +37,109 @@
 "distance_to_sort": 1.4,
 "radius": 3.799999952316284
 },
-"154": {
-"name": "Magrath Road, Ashok Nagar",
-"address": "Garuda Mall 15, Magrath Rd, Ashok Nagar,",
-"lat": "12.97011",
-"lng": "77.609817",
-"distance": "4.0 to 9.5 km",
-"distance_to_sort": 6.9,
-"radius": 2.4800000190734863
+"320": {
+"name": "Yeshwanthpur Industrial Area, Phase 1",
+"address": "Vaishnavi Sapphire Mall, Yeshwanthpur Industrial Area, Phase 1, Yeshwanthpur, Tumkur Road",
+"lat": "13.024502",
+"lng": "77.548471",
+"distance": "within 7.5 km",
+"distance_to_sort": 3,
+"radius": 4.210000038146973
 },
-"326": {
-"name": "Domlur - HAL Road",
-"address": "Carlton Towers, Kodihalli",
-"lat": "12.961239",
-"lng": "77.644142",
-"distance": "7.0 to 14.5 km",
-"distance_to_sort": 10.7,
-"radius": 3.3299999237060547
-},
-"1483": {
-"name": "Arekere MICO Layout, 2nd stage, Lakshmi Layout, Arekere, Bannerghatta Main Road, ",
-"address": "Arekere MICO Layout, 2nd stage, Lakshmi Layout, Arekere, Bannerghatta Main Road, ",
-"lat": "12.887186",
-"lng": "77.595901",
-"distance": "10.5 to 16.0 km",
-"distance_to_sort": 13.2,
-"radius": 2.359999895095825
+"2963": {
+"name": "Kanaka Nagar Circle",
+"address": "Kanaka Nagar",
+"lat": "13.037723",
+"lng": "77.683959",
+"distance": "10.5 to 19.0 km",
+"distance_to_sort": 14.8,
+"radius": 3.940000057220459
 }
 },
 "result": [
 {
 "availability": 1,
 "cars": [
+{
+"id": 19,
+"boot_space": 2,
+"seater": 5,
+"minimum_age": 18,
+"name": "Swift",
+"pricing_index": 0,
+"filter": 1,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/1f3585c2e226fb30f85664a669b8c2ee1fdc1703.png?-1503039545",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/ab1fd92c521382b3119c50b1ec6c8a19553bed94.png?-1438160149",
+"brand": "Maruti",
+"pricing": [
+{
+"id": 10,
+"amount": 1030,
+"kms": 60,
+"excess_kms": 12,
+"flexi": "FLEX_10",
+"z_points": 12
+},
+{
+"id": 15,
+"amount": 1841,
+"kms": 120,
+"excess_kms": 12,
+"flexi": "FLEX_15",
+"z_points": 24
+}
+],
+"manual": true,
+"locations": [
+{
+"id": "151"
+},
+{
+"id": "320"
+},
+{
+"id": "17"
+}
+],
+"ranking": 1
+},
+{
+"id": 89,
+"boot_space": 0,
+"seater": 7,
+"minimum_age": 18,
+"name": "Marazzo",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/487fdedbd2cbfdc4ae9652188cd4b4cef14cd6d8.png?-1536934443",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/36552aa0bb0c3048fd0dc50798e9e89d6cf7d7a6.png?-1536934442",
+"brand": "Mahindra",
+"pricing": [
+{
+"id": 10,
+"amount": 1682,
+"kms": 60,
+"excess_kms": 18,
+"flexi": "FLEX_10",
+"z_points": 0
+},
+{
+"id": 15,
+"amount": 3005,
+"kms": 120,
+"excess_kms": 18,
+"flexi": "FLEX_15",
+"z_points": 0
+}
+],
+"manual": true,
+"locations": [
+{
+"id": "67"
+}
+],
+"ranking": 99
+},
 {
 "id": 69,
 "boot_space": 3,
@@ -74,68 +154,28 @@
 "pricing": [
 {
 "id": 10,
-"amount": 1181,
-"kms": 45,
+"amount": 1157,
+"kms": 60,
 "excess_kms": 14,
 "flexi": "FLEX_10",
-"z_points": 10
+"z_points": 12
 },
 {
 "id": 15,
-"amount": 2110,
-"kms": 90,
+"amount": 2068,
+"kms": 120,
 "excess_kms": 14,
 "flexi": "FLEX_15",
-"z_points": 18
+"z_points": 24
 }
 ],
 "manual": false,
 "locations": [
 {
-"id": "154"
-},
-{
-"id": "12"
+"id": "2963"
 }
 ],
 "ranking": 49
-},
-{
-"id": 56,
-"boot_space": 5,
-"seater": 5,
-"minimum_age": 18,
-"name": "Creta",
-"pricing_index": 0,
-"filter": 2,
-"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/db8a37dea93bea80173b683d191e228e8afed50b.jpg?-1492089335",
-"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/a6efd0cf5892124cb725fc815fb72f5b0d6e091b.jpg?-1492089332",
-"brand": "Hyundai",
-"pricing": [
-{
-"id": 10,
-"amount": 1442,
-"kms": 45,
-"excess_kms": 18,
-"flexi": "FLEX_10",
-"z_points": 15
-},
-{
-"id": 15,
-"amount": 2576,
-"kms": 90,
-"excess_kms": 18,
-"flexi": "FLEX_15",
-"z_points": 27
-}
-],
-"manual": true,
-"locations": [
-{
-"id": "1483"
-}
-],
-"ranking": 39
 }
 ]
 },
@@ -143,18 +183,6 @@
 "availability": 0,
 "header": "No more cars available for your selected time and location",
 "cars": [
-{
-"id": 19,
-"boot_space": 2,
-"seater": 5,
-"minimum_age": 18,
-"name": "Swift",
-"pricing_index": 0,
-"filter": 1,
-"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/1f3585c2e226fb30f85664a669b8c2ee1fdc1703.png?-1503039545",
-"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/ab1fd92c521382b3119c50b1ec6c8a19553bed94.png?-1438160149",
-"brand": "Maruti"
-},
 {
 "id": 32,
 "boot_space": 3,
@@ -274,6 +302,18 @@
 "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/d290ab2ab4721ae87df602e34ddf2219e57b0c4d.png?-1523276462",
 "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/40a43a76ed62825974ecdaf3838faf4d4a1aa96e.png?-1487913700",
 "brand": "Maruti"
+},
+{
+"id": 56,
+"boot_space": 5,
+"seater": 5,
+"minimum_age": 18,
+"name": "Creta",
+"pricing_index": 0,
+"filter": 2,
+"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/db8a37dea93bea80173b683d191e228e8afed50b.jpg?-1492089335",
+"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/a6efd0cf5892124cb725fc815fb72f5b0d6e091b.jpg?-1492089332",
+"brand": "Hyundai"
 },
 {
 "id": 18,
@@ -480,18 +520,6 @@
 "brand": "Hyundai"
 },
 {
-"id": 89,
-"boot_space": 0,
-"seater": 7,
-"minimum_age": 18,
-"name": "Marazzo",
-"pricing_index": 0,
-"filter": 2,
-"url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/pictures/original/487fdedbd2cbfdc4ae9652188cd4b4cef14cd6d8.png?-1536934443",
-"url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/36552aa0bb0c3048fd0dc50798e9e89d6cf7d7a6.png?-1536934442",
-"brand": "Mahindra"
-},
-{
 "id": 12,
 "boot_space": 5,
 "seater": 5,
@@ -545,7 +573,7 @@
 "allocation_time": 14400000
 },
 "pricing_banner": {
-"dpm": 1,
+"dpm": 0.98,
 "message": "Book early, book cheaper!"
 },
 "msg": "success"
